@@ -5,7 +5,7 @@
 - [Risto Keković](https://github.com/Risto995)
 - [Nemanja Petrović](https://github.com/nemanjapetrovic)
 
-# README
+# Details
 
 IDE: Visual Studio
 
