@@ -1,3 +1,10 @@
+# Team members
+
+- [Nikola Vitanović](https://github.com/NVitanovic)
+- [Mihajlo Nikolić](https://www.linkedin.com/in/mihajlonikolic94/)
+- [Risto Keković](https://github.com/Risto995)
+- [Nemanja Petrović](https://github.com/nemanjapetrovic)
+
 # README
 
 IDE: Visual Studio
